@@ -45,12 +45,9 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 
 ### Prerequisites
 
-```
 Instalar Windows Terminal Preview na [Microsoft Store](https://www.microsoft.com/pt-br/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab)
-```
-```
+
 Instalar Ubuntu 20.04 LTS na [Microsoft Store](https://www.microsoft.com/pt-br/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab)
-```
 
 ### Installing
 
